@@ -1,2 +1,2 @@
 # Twitter-Clone
-Twitter Clone using HTML and CSS only. 
+2. Twitter Clone made using HTML and CSS only. 
